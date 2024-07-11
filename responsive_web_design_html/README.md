@@ -1,9 +1,9 @@
 Part 1
-a) Learn HTML by Building a Cat Photo App
-b) Learn Basic CSS by Building a Cafe Menu
-c) Learn CSS Colors by Building a Set of Colored Markers
-d) Learn HTML Forms by Building a Registration Form
-e) Survey Form (Certification Project)
+a) Learn HTML by Building a Cat Photo App<br />
+b) Learn Basic CSS by Building a Cafe Menu<br />
+c) Learn CSS Colors by Building a Set of Colored Markers<br />
+d) Learn HTML Forms by Building a Registration Form<br />
+e) Survey Form (Certification Project)<br />
 
 Part 2
 a) Learn the CSS Box Model by Building a Rothko Painting
