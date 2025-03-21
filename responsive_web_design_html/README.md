@@ -1,7 +1,7 @@
 # Responsive Web Design
 
-HTML = Hypertext Markup Language</br>
-CSS = Cascading Style Sheets
+..*HTML = Hypertext Markup Language</br>
+..*CSS = Cascading Style Sheets
 
 ## Content:
 
