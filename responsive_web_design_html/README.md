@@ -1,5 +1,8 @@
 # Responsive Web Design
 
+
+## Content:
+
 1a) Learn HTML by Building a Cat Photo App								<em>(71 parts)</em><br/>
 1b) Learn Basic CSS by Building a Cafe Menu								<em>(91 parts)</em><br/>
 1c) Learn CSS Colors by Building a Set of Colored Markers	<em>(94 parts)</em><br/>
