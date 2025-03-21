@@ -16,6 +16,7 @@ h1 {
   .sleeve {
 	width: 110px;
 	height: 25px;
+	background-color: white;
   }
   
   .red {
@@ -29,5 +30,4 @@ h1 {
   .blue {
 	background: linear-gradient(hsl(186, 76%, 16%), hsl(223, 90%, 60%), hsl(240, 56%, 42%));
   }
-  
   
