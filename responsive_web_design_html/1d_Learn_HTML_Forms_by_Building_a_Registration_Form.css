@@ -55,3 +55,8 @@ body {
 	vertical-align: middle;
   }
   
+  input[type="submit"] {
+	display: block;
+	width: 60%;
+  }
+  
