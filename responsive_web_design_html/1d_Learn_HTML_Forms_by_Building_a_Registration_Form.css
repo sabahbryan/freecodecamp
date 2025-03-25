@@ -14,11 +14,15 @@ body {
   }
   
   form {
-	margin: 0 auto;
-	text-align: center;
+	width: 60vw;
 	max-width: 500px;
 	min-width: 300px;
-	width: 60vw;
+	margin: 0 auto;
+  }
+  
+  fieldset {
+	border: 0;
+	padding: 2rem 0;
   }
   
   label {
