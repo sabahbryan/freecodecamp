@@ -1,14 +1,9 @@
 * {
-	box-sizing: border-box;
-  }
-  
-/* .gallery {
-  border: 5px solid red;
-  width: 50%;
+  box-sizing: border-box;
 }
 
-img {
+.gallery img {
   width: 100%;
-  border: 5px solid blue;
-  padding: 5px;
-} */
+  max-width: 350px;
+  height: 300px;
+}
