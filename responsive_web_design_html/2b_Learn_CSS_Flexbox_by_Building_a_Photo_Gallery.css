@@ -29,6 +29,9 @@
 	padding: 20px 10px;
   	max-width: 1400px;
   	margin: 0 auto;
+	gap: 16px;
+	/* row-gap: 16px; */
+	/* column-gap: 16px; */
   }
   
   .gallery img {
