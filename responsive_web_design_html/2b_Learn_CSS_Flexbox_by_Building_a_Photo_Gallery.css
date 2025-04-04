@@ -23,6 +23,7 @@
 	/* flex-direction: row-reverse; */
 	/* flex-direction: column; */
 	/* flex-direction: column-reverse; */
+	flex-wrap: wrap;
   }
   
   .gallery img {
