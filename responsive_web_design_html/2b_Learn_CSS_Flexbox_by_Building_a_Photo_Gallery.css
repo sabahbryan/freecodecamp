@@ -20,18 +20,13 @@
   .gallery {
 	display: flex;
 	flex-direction: row;
-	/* flex-direction: row-reverse; */
-	/* flex-direction: column; */
-	/* flex-direction: column-reverse; */
 	flex-wrap: wrap;
 	justify-content: center;
 	align-items: center;
-	padding: 20px 10px;
-  	max-width: 1400px;
-  	margin: 0 auto;
 	gap: 16px;
-	/* row-gap: 16px; */
-	/* column-gap: 16px; */
+	max-width: 1400px;
+	margin: 0 auto;
+	padding: 20px 10px;
   }
   
   .gallery img {
@@ -41,8 +36,9 @@
 	object-fit: cover;
 	border-radius: 10px;
   }
-
+  
   .gallery::after {
-	content:"";
+	content: "";
 	width: 350px;
   }
+  
