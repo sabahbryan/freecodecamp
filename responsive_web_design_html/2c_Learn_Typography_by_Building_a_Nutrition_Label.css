@@ -76,7 +76,11 @@
 	font-size: 2.4em;
 	font-weight: 700;
   }
-
+  
   .right {
 	justify-content: flex-end;
+  }
+  
+  .indent {
+	margin-left: 1em;
   }
