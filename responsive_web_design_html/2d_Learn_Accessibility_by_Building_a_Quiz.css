@@ -79,8 +79,15 @@ body {
   
   h2 {
 	border-bottom: 4px solid #dfdfe2;
-	margin-top: 0;
+	margin-top: 0px;
 	padding-top: 60px;
+  }
+  
+  .info {
+	padding-top: 1px;
+	padding-left: 1px;
+	padding-right: 0;
+	padding-bottom: 0;
   }
   
   h3::before {
