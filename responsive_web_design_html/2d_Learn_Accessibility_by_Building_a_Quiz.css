@@ -96,7 +96,7 @@ body {
 	font-size: 1rem;
   }
   
-  .info input, .info label {
+  .info label, .info input {
 	display: inline-block;
   }
   
@@ -110,6 +110,15 @@ body {
 	min-width: 55px;
 	text-align: right;
   }
+  
+  .question-block {
+	text-align: left;
+	display: block;
+	width: 100%;
+	margin-top: 20px;
+	padding-top: 5px;
+  }
+  
   
   h3::before {
 	content: "Question #";
