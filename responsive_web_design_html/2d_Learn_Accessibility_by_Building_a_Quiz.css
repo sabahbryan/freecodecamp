@@ -84,10 +84,16 @@ body {
   }
   
   .info {
-	padding-top: 1px;
-	padding-left: 1px;
-	padding-right: 0;
-	padding-bottom: 0;
+	padding: 10px 0 0 5px;
+  }
+  
+  .formrow {
+	margin: 1px 0 0 0;
+	padding: 0 1px 0 1px;
+  }
+  
+  input {
+	font-size: 50px;
   }
   
   h3::before {
