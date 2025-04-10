@@ -155,10 +155,16 @@ body {
 	justify-content: center;
   }
   
-  footer, footer a {
-	color: #d0d0d5;
+  footer,
+  footer a {
+	color: #dfdfe2;
   }
-
+  
+  address {
+	text-align: center;
+	padding: 1px;
+  }
+  
   .sr-only {
 	position: absolute;
 	width: 1px;
