@@ -155,6 +155,10 @@ body {
 	justify-content: center;
   }
   
+  footer, footer a {
+	color: #d0d0d5;
+  }
+
   .sr-only {
 	position: absolute;
 	width: 1px;
