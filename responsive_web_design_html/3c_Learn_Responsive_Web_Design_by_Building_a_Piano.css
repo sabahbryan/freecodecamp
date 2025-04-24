@@ -30,6 +30,7 @@ html {
 	height: 175px;
 	margin: 2px;
 	float: left;
+	border-radius: 0 0 3px 3px;
   }
   
   .key.black--key::after {
@@ -40,9 +41,9 @@ html {
 	width: 32px;
 	height: 100px;
   }
-
+  
   .logo {
-	position: absolute;
 	width: 200px;
+	position: absolute;
 	top: 23px;
   }
