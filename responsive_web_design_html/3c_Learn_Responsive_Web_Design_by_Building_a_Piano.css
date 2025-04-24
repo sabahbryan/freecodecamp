@@ -38,3 +38,9 @@ html {
 	width: 32px;
 	height: 100px;
   }
+
+  .logo {
+	position: absolute;
+	width: 200px;
+	top: 23px;
+  }
