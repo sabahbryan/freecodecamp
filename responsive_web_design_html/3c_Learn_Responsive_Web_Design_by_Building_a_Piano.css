@@ -48,9 +48,12 @@ html {
 	position: absolute;
 	top: 23px;
   }
-
+  
   @media (max-width: 768px) {
 	#piano {
 	  width: 358px;
+	}
+	.keys {
+	  width: 318px;
 	}
   }
