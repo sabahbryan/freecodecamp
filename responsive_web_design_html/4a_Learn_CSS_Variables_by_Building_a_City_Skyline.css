@@ -26,8 +26,8 @@
 	position: absolute;
 	top: 0;
   }
-  /*BACKGROUND BUILDINGS - "bb" stands for "background building"*/
   
+  /* BACKGROUND BUILDINGS - "bb" stands for "background building" */
   .bb1 {
 	width: 10%;
 	height: 70%;
@@ -35,13 +35,12 @@
 	flex-direction: column;
 	align-items: center;
   }
-  
   .bb1a {
 	width: 70%;
 	height: 10%;
 	background-color: var(--building-color1);
+	background: linear-gradient(var(--building-color1), var(--window-color1));
   }
-  
   .bb1b {
 	width: 80%;
 	height: 10%;
@@ -78,13 +77,13 @@
 	background-color: var(--building-color4);
   }
   
-  /*FOREGROUND BUILDINGS - "fb" stands for "foreground building"*/
-  
+  /* FOREGROUND BUILDINGS - "fb" stands for "foreground building" */
   .fb1 {
 	width: 10%;
 	height: 60%;
 	background-color: var(--building-color4);
   }
+  
   .fb2 {
 	width: 10%;
 	height: 40%;
