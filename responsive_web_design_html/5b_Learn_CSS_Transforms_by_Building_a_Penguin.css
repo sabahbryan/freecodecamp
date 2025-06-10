@@ -159,6 +159,11 @@ body {
   font-weight: bold;
 }
 
+.shirt div {
+  font-weight: initial;
+  /* font-weight: normal; */
+}
+
 .penguin-body {
   width: 53%;
   height: 45%;
