@@ -3,17 +3,9 @@ const count = 8;
 const rows = [];
 
 function padRow(name) {
-  return name;
+  return character + name;
 }
-// function addTwoNumbers(num1, num2) {
-//   return num1 + num2;
-// }
-
-// const sum = addTwoNumbers(5, 10);
-// console.log(sum)
-
-
-const call = padRow();
+const call = padRow("CamperChan");
 console.log(call);
 
 
