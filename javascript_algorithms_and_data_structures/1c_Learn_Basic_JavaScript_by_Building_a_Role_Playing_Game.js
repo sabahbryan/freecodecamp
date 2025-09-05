@@ -47,13 +47,7 @@ function update(location) {
 }
 
 function goTown() {
-//   button1.innerText = "Go to store";
-//   button2.innerText = "Go to cave";
-//   button3.innerText = "Fight dragon";
-//   button1.onclick = goStore;
-//   button2.onclick = goCave;
-//   button3.onclick = fightDragon;
-//   text.innerText = "You are in the town square. You see a sign that says \"Store\".";
+  update();
 }
 
 function goStore() {
