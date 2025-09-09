@@ -99,6 +99,9 @@ function buyWeapon() {
       text.innerText = "You do not have enough gold to buy a weapon.";
     }
   }
+  else {
+    text.innerText = "You already have the most powerful weapon!";
+  }
 }
 
 function fightSlime() {
