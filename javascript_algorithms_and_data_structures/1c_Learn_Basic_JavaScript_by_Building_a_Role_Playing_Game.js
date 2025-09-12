@@ -31,14 +31,14 @@ const monsters = [
   {
     name: "fanged beast",
     level: 8,
-    health: 60 
+    health: 60
   },
   {
     name: "dragon",
     level: 20,
     health: 300
   }
-];
+]
 const locations = [
   {
     name: "town square",
@@ -136,13 +136,15 @@ function fightSlime() {
 }
 
 function fightBeast() {
-
+  fighting = 1;
+  goFight();
 }
 
 function fightDragon() {
-  console.log("Fighting dragon.");
+  fighting = 2;
+  goFight();
 }
 
 function goFight() {
-  
+
 }
